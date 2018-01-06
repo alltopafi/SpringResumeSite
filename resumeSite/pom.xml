@@ -52,14 +52,6 @@
 			    <groupId>org.pitest</groupId>
 			    <artifactId>pitest-maven</artifactId>
 			    <version>0.32</version>
-			    <configuration>
-			        <targetClasses>
-			            <param>com.alltopafi.jesse.*</param>
-			        </targetClasses>
-			        <targetTests>
-			            <param>com.alltopafi.jesse.*</param>
-			        </targetTests>
-			    </configuration>
 			</plugin>
 		</plugins>
 	</build>

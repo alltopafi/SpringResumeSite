@@ -47,12 +47,20 @@
 			   <groupId>org.apache.maven.plugins</groupId>
 			   <artifactId>maven-checkstyle-plugin</artifactId>
 			   <version>2.17</version>
-			 </plugin>
-			 <plugin>
+			 </plugin>			 
+			<plugin>
 			    <groupId>org.pitest</groupId>
 			    <artifactId>pitest-maven</artifactId>
 			    <version>0.32</version>
- 			</plugin>
+			    <configuration>
+			        <targetClasses>
+			            <param>com.alltopafi.jesse.*</param>
+			        </targetClasses>
+			        <targetTests>
+			            <param>com.alltopafi.jesse.*</param>
+			        </targetTests>
+			    </configuration>
+			</plugin>
 		</plugins>
 	</build>
 

@@ -1,0 +1,14 @@
+package com.alltopafi.jesse.model.projects;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ResumeSiteTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

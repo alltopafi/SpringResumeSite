@@ -1,0 +1,13 @@
+package com.alltopafi.jesse.model.projects;
+
+public class ResumeSiteTest {
+
+	@Test
+	public void test() {
+		
+	
+	
+	
+	}
+
+}

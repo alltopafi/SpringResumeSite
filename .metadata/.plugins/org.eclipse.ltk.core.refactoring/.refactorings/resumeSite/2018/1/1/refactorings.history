@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.alltopafi.jesse.model&apos; to &apos;com.alltopafi.jesse.model.projects&apos;&#x0A;- Original project: &apos;resumeSite&apos;&#x0A;- Original element: &apos;resumeSite/src/main/java/com.alltopafi.jesse.model&apos;&#x0A;- Renamed element: &apos;resumeSite/src/main/java/com.alltopafi.jesse.model.projects&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.alltopafi.jesse.model&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.alltopafi.jesse.model" name="com.alltopafi.jesse.model.projects" qualified="false" references="true" stamp="1515276191201" textual="false" version="1.0"/>
+</session>

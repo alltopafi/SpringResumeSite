@@ -6,7 +6,7 @@
 	<groupId>com.alltopafi</groupId>
 	<artifactId>resumeSite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>resumeSite</name>
 	<description>Demo project for Spring Boot Resume</description>

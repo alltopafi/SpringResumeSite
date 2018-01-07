@@ -1,9 +1,0 @@
-package com.alltopafi.jesse.model;
-
-public abstract class Project {
-
-	String name;
-	String description;
-	String className;
-	
-}

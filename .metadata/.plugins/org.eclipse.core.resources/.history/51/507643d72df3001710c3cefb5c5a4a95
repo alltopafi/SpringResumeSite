@@ -1,5 +1,0 @@
-package com.alltopafi.jesse.model.projects;
-
-public class ResumeSite extends Project{
-
-}
